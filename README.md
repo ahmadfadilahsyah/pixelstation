@@ -19,6 +19,13 @@ Proyek ini dikembangkan secara kolaboratif oleh:
 <a href="https://youtu.be/ok9XBSdNkck?si=IfUdPlACFMNPTmZ9">Link Youtube</a>
 <br>
 
+<img width="757" height="355" alt="image" src="https://github.com/user-attachments/assets/40378448-ee5f-445f-8d5c-4ee76c6f3faa" />
+<br>
+<img width="763" height="356" alt="image" src="https://github.com/user-attachments/assets/5c86efbd-d97a-44f4-ae7a-861cb094959c" />
+<br>
+<img width="784" height="368" alt="image" src="https://github.com/user-attachments/assets/a8f62a07-145b-43ed-9517-40f4374b5f24" />
+<br> 
+
 ## ✨ Fitur Unggulan
 
 ### 👤 Antarmuka Pengguna (User)
