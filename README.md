@@ -14,6 +14,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
+<br>
+
+[![YouTube Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ok9XBSdNkck?si=IfUdPlACFMNPTmZ9)
+
+<br>
+
+<a href="https://youtu.be/ok9XBSdNkck?si=IfUdPlACFMNPTmZ9">
+  <img src="https://img.youtube.com/vi/ok9XBSdNkck/maxresdefault.jpg" width="720" alt="Demo Video PixelStation">
+</a>
+
 </div>
 
 ---
@@ -50,21 +60,25 @@ Dikembangkan oleh **Ahmad Fadilah Syah** ([@ahmadfadilahsyah](https://github.com
     <tr>
       <td align="center">
         <strong>🏠 Landing Page</strong><br><br>
-        <img src="assets/index.jpeg" width="260" alt="Landing Page">
+        <img src="assets/index.jpeg" width="360" alt="Landing Page">
       </td>
       <td align="center">
         <strong>🔐 Login + Captcha</strong><br><br>
-        <img src="assets/login.jpeg" width="260" alt="Login">
+        <img src="assets/login.jpeg" width="360" alt="Login">
       </td>
+    </tr>
+    <tr>
+      <td align="center"><br></td>
+      <td align="center"><br></td>
     </tr>
     <tr>
       <td align="center">
         <strong>👤 Dashboard Pengguna</strong><br><br>
-        <img src="assets/dbuser.jpeg" width="260" alt="User Dashboard">
+        <img src="assets/dbuser.jpeg" width="360" alt="User Dashboard">
       </td>
       <td align="center">
         <strong>📊 Dashboard Admin</strong><br><br>
-        <img src="assets/dbadmin.jpeg" width="260" alt="Admin Dashboard">
+        <img src="assets/dbadmin.jpeg" width="360" alt="Admin Dashboard">
       </td>
     </tr>
   </table>
@@ -132,6 +146,8 @@ mysql -u root -p nama_database < rental_ps.sql
 # 5. Jalankan aplikasi
 #    Akses melalui browser: http://localhost/pixelstation
 ```
+
+---
 
 <div align="center">
   <br>
