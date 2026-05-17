@@ -15,6 +15,10 @@ Proyek ini dikembangkan secara kolaboratif oleh:
 
 ---
 
+## Video Penjelasan Website
+<a href="https://youtu.be/ok9XBSdNkck?si=IfUdPlACFMNPTmZ9">Link Youtube</a>
+<br>
+
 ## ✨ Fitur Unggulan
 
 ### 👤 Antarmuka Pengguna (User)
