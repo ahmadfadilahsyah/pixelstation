@@ -8,10 +8,14 @@ Aplikasi manajemen persewaan PlayStation berbasis web yang dirancang untuk mempe
 
 ---
 
+## Video Penjelasan Website
+<a href="https://youtu.be/ok9XBSdNkck?si=IfUdPlACFMNPTmZ9">Link Youtube</a>
+<br>
+
 ## 👥 Pengembang (Developers)
 Proyek ini dikembangkan secara kolaboratif oleh:
 * **Ahmad Fadilah Syah**
-* **Najwa Ramadhan**
+* **Najwa Ramadhan**  
 
 ---
 
